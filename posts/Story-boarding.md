@@ -1,6 +1,6 @@
 ---
 title: Learning To Create Storyboard
-published_at: 2024-07-24
+published_at: 2024-08-08
 snippet: Using Existing Examples Available Online To Practice Creating Storyboard & Adapting Learned Techniques To Create First Story Board
 disable_html_sanitization: true
 allow_math: true

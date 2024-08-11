@@ -1,6 +1,6 @@
 ---
 title: Self Portratit Assignment #1
-published_at: 2024-07-24
+published_at: 2024-08-11
 snippet: Compilation Of Foootages Representing My Special Interest Compiled Into A Short 2 Minute Video
 disable_html_sanitization: true
 allow_math: true
