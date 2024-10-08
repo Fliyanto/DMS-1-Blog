@@ -1,5 +1,5 @@
 ---
-title: Unity Adventures - Trial, Error, and Discovery!
+title: Unity Adventures - Trial and Discovery!
 published_at: 2024-09-15
 snippet: Explore the unity program world through trial and error where every misstep leads to fresh discoveries and creative wins!
 disable_html_sanitization: true
