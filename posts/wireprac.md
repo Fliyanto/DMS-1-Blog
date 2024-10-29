@@ -5,3 +5,6 @@ snippet: Dive into the hidden world of website magic! I’m spilling the beans o
 disable_html_sanitization: true
 allow_math: true
 --- 
+
+# Columns Practic & Wonders
+![amazon](AmazonPRAC.png)
